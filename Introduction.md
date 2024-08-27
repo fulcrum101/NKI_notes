@@ -1,5 +1,7 @@
-
-## [[TLP]]
+---
+share: true
+---
+## [[TLP|TLP]]
 > TLP = traffic light protocol
 
 * **TLP: CLEAR** = pieejama visiem, drīkst pubicēt
