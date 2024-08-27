@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "radare2.md",
+                "file": "Binary exploitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed72275ddfb41b60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "radare2.md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "radare2.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "radare2.md"
+                "file": "Introduction.md"
               }
             }
           }
@@ -143,21 +156,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kit:PublishKit": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "667a4105ed67715a",
+  "active": "ed72275ddfb41b60",
   "lastOpenFiles": [
-    "kitrc.md",
-    "radare2.md",
-    "Binary exploitation.md",
-    "Reverse engineering.md",
+    "radardpc2.md",
+    "reverse_tasks/script_2.py",
+    "reverse_tasks/script_2.txt",
+    "reverse_tasks/js_safe_4.html",
+    "Aparatūras drošība.md",
+    "reverse_tasks/code.txt",
+    "reverse_tasks/script.py",
+    "reverse_tasks/flag.bluehens",
+    "reverse_tasks",
+    "New folder",
     "Rīki.md",
-    "Introduction.md",
     "Web.md",
-    "Topics.md",
+    "Binary exploitation.md",
+    "Introduction.md",
     "Registers.md",
+    "Reverse engineering.md",
+    "Topics.md",
+    "Pasted image 20240827101120.png",
+    "kitrc.md",
     "Pasted image 20240827114559.png",
     "Pasted image 20240827114208.png",
     "Pasted image 20240827113709.png",
@@ -166,7 +188,6 @@
     "Pasted image 20240827112800.png",
     "Pasted image 20240827112752.png",
     "Uzdevumu risināšanas algoritms.md",
-    "Pasted image 20240827101120.png",
     "Uzdevuma risināšanas algoritms.md",
     "2024-08-26.md",
     "Welcome.md"

@@ -2,3 +2,4 @@
 [[Web]]
 [[Reverse engineering]]
 [[Binary exploitation]]
+[[Aparatūras drošība]]

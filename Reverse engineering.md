@@ -7,7 +7,7 @@
 * [[GEF]]
 * [[Ghidra]]
 * [[Binary Ninja]]
-* [[radare2]]
+* [[radardpc2]]
 * [[IDA]]
 * [[DnSPy]]
 * [[binwalk]]

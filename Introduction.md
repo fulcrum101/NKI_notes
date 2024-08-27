@@ -1,4 +1,3 @@
-
 ## [[TLP]]
 > TLP = traffic light protocol
 
