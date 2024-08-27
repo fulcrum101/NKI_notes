@@ -1,16 +1,20 @@
+---
+share: true
+---
+
 > Process, kurā programmatūra vai aparatūra tiek dekonstrēta, lai no tās iegūt papildis informāciju (bieži saistītu ar arhitektūru un implementāciju).
 
 
 > `man ascii`
 
-## [[Rīki]]
-* [[GEF]]
-* [[Ghidra]]
-* [[Binary Ninja]]
-* [[radare2]]
-* [[IDA]]
-* [[DnSPy]]
-* [[binwalk]]
+## [[Rīki|Rīki]]
+* [[GEF|GEF]]
+* [[Ghidra|Ghidra]]
+* [[Binary Ninja|Binary Ninja]]
+* [[radare2|radare2]]
+* [[IDA|IDA]]
+* [[DnSPy|DnSPy]]
+* [[binwalk|binwalk]]
 ## Uzdevumu risināšanas algoritms
 1. Analīze
 2. Rīku izvēle
