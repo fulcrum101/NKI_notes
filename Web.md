@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 ## Klienta puses ievainojamības
 - HTML injekcijas
 - JS injekcijas
