@@ -1,23 +1,27 @@
-## [[Reverse engineering]] / 
-* [[GEF]]
-* [[Ghidra]]
-* [[Binary Ninja]]
-* [[radare2]]
-* [[IDA]]
-* [[DnSPy]]
-* [[binwalk]]
-* [[pattern]]
+---
+share: true
+---
 
-## [[Binary exploitation]]
-*  [[radare2]]
-* [[checksek]]
-- [[Pwntools]]
-- [[gdb]]
-- [[strace + ltrace]]
+## [[Reverse engineering|Reverse engineering]] / 
+* [[GEF|GEF]]
+* [[Ghidra|Ghidra]]
+* [[Binary Ninja|Binary Ninja]]
+* [[radare2|radare2]]
+* [[IDA|IDA]]
+* [[DnSPy|DnSPy]]
+* [[binwalk|binwalk]]
+* [[pattern|pattern]]
 
-## [[Web]]
-- [[OWASP Zap]]
-- [[BurpSuite]]
-- [[ffuf]]
-- [[sqlmap]] 
+## [[Binary exploitation|Binary exploitation]]
+*  [[radare2|radare2]]
+* [[checksek|checksek]]
+- [[Pwntools|Pwntools]]
+- [[gdb|gdb]]
+- [[strace + ltrace|strace + ltrace]]
+
+## [[Web|Web]]
+- [[OWASP Zap|OWASP Zap]]
+- [[BurpSuite|BurpSuite]]
+- [[ffuf|ffuf]]
+- [[sqlmap|sqlmap]] 
 
