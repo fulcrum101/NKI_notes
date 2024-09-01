@@ -3,3 +3,6 @@
 [[Reverse engineering]]
 [[Binary exploitation]]
 [[Aparatūras drošība]]
+[[Komanddarbība]]
+[[Cryptography]]
+[[Other topics]]

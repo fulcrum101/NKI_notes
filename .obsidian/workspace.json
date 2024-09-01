@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "667a4105ed67715a",
+            "id": "715dbda84cabec51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary exploitation.md",
+                "file": "Other topics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ed72275ddfb41b60",
+            "id": "225b45ee299ff31a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Writeups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5ee3c69d0f58de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writeups/Maybe assembly.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Writeups/Maybe assembly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "Writeups/Maybe assembly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "Writeups/Maybe assembly.md"
               }
             }
           }
@@ -159,34 +171,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed72275ddfb41b60",
+  "active": "b5ee3c69d0f58de4",
   "lastOpenFiles": [
-    "radardpc2.md",
+    "Attack & defense.md",
+    "Aparatūras drošība.md",
+    "Other topics.md",
+    "Komanddarbība.md",
+    "Writeups/Maybe assembly.md",
+    "reverse_tasks/hate.py",
+    "Pasted image 20240830112106.png",
+    "Pasted image 20240830112007.png",
+    "Pasted image 20240830111948.png",
+    "Pasted image 20240830111203.png",
+    "maybe_assembly.png",
+    "Untitled.md",
+    "Writeups.md",
+    "Writeups",
+    "reverse_tasks/reverse_cypher.py",
+    "reverse_tasks/scheme.py",
+    "reverse_tasks/data.txt",
+    "Rīki.md",
+    "Radio.md",
+    "Autopsy.md",
+    "Binary exploitation.md",
+    "Introduction.md",
+    "Cryptography.md",
+    "Topics.md",
+    "Registers.md",
+    "Reverse engineering.md",
+    "Web.md",
+    "Wireshark.md",
+    "radare2.md",
+    "cron.md",
     "reverse_tasks/script_2.py",
     "reverse_tasks/script_2.txt",
     "reverse_tasks/js_safe_4.html",
-    "Aparatūras drošība.md",
     "reverse_tasks/code.txt",
     "reverse_tasks/script.py",
-    "reverse_tasks/flag.bluehens",
-    "reverse_tasks",
-    "New folder",
-    "Rīki.md",
-    "Web.md",
-    "Binary exploitation.md",
-    "Introduction.md",
-    "Registers.md",
-    "Reverse engineering.md",
-    "Topics.md",
     "Pasted image 20240827101120.png",
     "kitrc.md",
     "Pasted image 20240827114559.png",
     "Pasted image 20240827114208.png",
     "Pasted image 20240827113709.png",
     "Pasted image 20240827113510.png",
-    "Pasted image 20240827112808.png",
-    "Pasted image 20240827112800.png",
-    "Pasted image 20240827112752.png",
     "Uzdevumu risināšanas algoritms.md",
     "Uzdevuma risināšanas algoritms.md",
     "2024-08-26.md",

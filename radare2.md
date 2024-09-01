@@ -8,6 +8,6 @@
 - `dr` - debug registers
 - `dc` - debug checkpoint?
 - `wa` - write assembly
-- `dpc` - decompile to C
+- `pdc` - decompile to C (print debug code?)
 - `px {print length, optional} {@register-0x20 (offset) or just memory address}` - print what is stored in memory
 - `pa {@register-0x20 (offset) or just memory address}`
